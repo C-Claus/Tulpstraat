@@ -1,0 +1,236 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ifc="http://www.ifcopenshell.org/ns" width="500mm" height="500mm" viewBox="0 0 500 500">
+    <defs>
+        <marker id="arrowend" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+          <polygon points="0 0, 10 3.5, 0 7"/>
+        </marker>
+        <marker id="arrowstart" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto">
+          <polygon points="10 0, 0 3.5, 10 7"/>
+        </marker>
+    </defs>
+    <g ifc:name="Elevation 00_BEGANE_GROND PLAN" class="section" ifc:plane="[[1.000000,0.000000,0.000000,0.000000],[0.000000,1.000000,0.000000,0.000000],[0.000000,0.000000,1.000000,1.600000],[0.000000,0.000000,0.000000,1.000000]]" ifc:matrix3="[[10.000000,0.000000,182.958266],[0.000000,10.000000,311.628078],[0.000000,0.000000,1.000000]]">
+        <g id="product-cb7cc1e9-e156-4183-a023-1eaec48be80a" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="3BVC7fuLP1Ww0Z7gx4Y_WA">
+            <path d="M204.958,288.044 L250.078,288.044"/>
+            <path d="M250.078,288.044 L250.078,287.044"/>
+            <path d="M204.958,287.044 L250.078,287.044"/>
+            <path d="M204.958,288.044 L204.958,287.044"/>
+        </g>
+    <g id="product-5f763cfc-941b-4d15-b94b-6012d7ee661d" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="1VTZpyb1jD5RbBO1BNxcOT">
+            <path d="M225.899,209.044 L225.899,211.044"/>
+            <path d="M225.899,211.044 L250.078,211.044"/>
+            <path d="M250.078,211.044 L250.078,209.044"/>
+            <path d="M225.899,209.044 L250.078,209.044"/>
+        </g>
+        <g id="product-7d56aef1-1f1d-445a-a997-ee7ab1e61a8e" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="1zLgxn7nr4MgcNxdgnvXgE">
+            <path d="M218.288,248.177 L218.288,249.869"/>
+            <path d="M218.288,248.177 L217.288,248.177"/>
+            <path d="M217.288,249.869 L217.288,248.177"/>
+            <path d="M218.288,249.869 L217.288,249.869"/>
+        </g>
+        <g id="product-8ccf6ad0-16e2-4548-b243-82ef04669138" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="2CpshG5k95IB93Wky4Pf4u">
+            <path d="M205.958,230.636 L205.958,231.636"/>
+            <path d="M218.288,231.636 L205.958,231.636"/>
+            <path d="M218.288,230.636 L218.288,231.636"/>
+            <path d="M218.288,230.636 L205.958,230.636"/>
+        </g>
+        <g id="product-8c4457fe-a120-4cfb-bf85-5d8cd1195906" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="2CH5V_eI1C_x_5NOpH6La6">
+            <path d="M217.288,219.434 L217.288,230.636"/>
+            <path d="M217.288,230.636 L218.288,230.636"/>
+            <path d="M218.288,219.434 L218.288,230.636"/>
+            <path d="M217.288,219.434 L218.288,219.434"/>
+            <path d="M218.288,210.546 L218.288,212.134"/>
+            <path d="M217.288,210.546 L218.288,210.546"/>
+            <path d="M217.288,210.546 L217.288,212.134"/>
+            <path d="M218.288,212.134 L217.288,212.134"/>
+        </g>
+        <g id="product-5336d5f8-d24a-4d13-b8b0-7254322af3cc" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="1JDjNuqafD4xYmSbGoAlFC">
+            <path d="M229.57,209.044 L229.57,189.531"/>
+            <path d="M230.57,209.044 L229.57,209.044"/>
+            <path d="M230.57,189.531 L230.57,209.044"/>
+            <path d="M229.57,189.531 L230.57,189.531"/>
+        </g>
+        <g id="product-dc6a2a24-dc3b-4ff2-8eec-e1f61e289399" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="3SQYeat3jFyexiuVOUA9EP">
+            <path d="M215.1,269.044 L215.1,270.044"/>
+            <path d="M215.1,270.044 L218.078,270.044"/>
+            <path d="M218.078,270.044 L218.078,269.044"/>
+            <path d="M215.1,269.044 L218.078,269.044"/>
+            <path d="M207.8,270.044 L207.8,269.044"/>
+            <path d="M205.958,269.044 L207.8,269.044"/>
+            <path d="M205.958,270.044 L205.958,269.044"/>
+            <path d="M205.958,270.044 L207.8,270.044"/>
+        </g>
+        <g id="product-f6575f48-666b-42eb-96b8-072a7f79e07b" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="3sLrz8Pcj2wvQu1of$UU1x">
+            <path d="M217.078,279.044 L218.078,279.044"/>
+            <path d="M218.078,270.044 L218.078,279.044"/>
+            <path d="M217.078,270.044 L218.078,270.044"/>
+            <path d="M217.078,270.044 L217.078,279.044"/>
+        </g>
+        <g id="product-2cc8673f-6f50-4693-a464-8933adebb8f3" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="0io6S$Rr16awHaYJEjwxZp">
+            <path d="M219.078,280.044 L219.078,279.044"/>
+            <path d="M217.078,279.044 L219.078,279.044"/>
+            <path d="M217.078,280.044 L217.078,279.044"/>
+            <path d="M217.078,280.044 L219.078,280.044"/>
+        </g>
+        <g id="product-35599750-3887-43d9-9646-2f2173310777" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="0rMPTGE8T3sPP6Bo5pCGTt">
+            <path d="M219.078,287.044 L220.078,287.044"/>
+            <path d="M220.078,279.044 L220.078,287.044"/>
+            <path d="M219.078,279.044 L220.078,279.044"/>
+            <path d="M219.078,279.044 L219.078,287.044"/>
+        </g>
+        <g id="product-7ad75127-3898-4965-bd4b-aade9931964a" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="1wrr4dE9X9PRrBgjwPCPPA">
+            <path d="M229.57,190.531 L205.959,190.531"/>
+            <path d="M229.57,189.531 L229.57,190.531"/>
+            <path d="M205.959,189.531 L229.57,189.531"/>
+            <path d="M205.959,190.531 L205.959,189.531"/>
+        </g>
+        <g id="product-c8bd4339-a881-42a6-a7af-af57400b07fa" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="38lKCvg852fgUlhrT02mVw">
+            <path d="M248.947,248.187 L248.947,251.187"/>
+            <path d="M246.947,248.187 L248.947,248.187"/>
+            <path d="M246.947,251.187 L246.947,248.187"/>
+            <path d="M248.947,251.187 L246.947,251.187"/>
+        </g>
+        <g id="product-d018660e-bcec-48fd-92b8-4bebcee1fddf" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="3G66OElEn8$PAuI_lEuVtV">
+            <path d="M218.288,250.869 L205.958,250.869"/>
+            <path d="M218.288,249.869 L218.288,250.869"/>
+            <path d="M205.958,249.869 L218.288,249.869"/>
+            <path d="M205.958,250.869 L205.958,249.869"/>
+        </g>
+        <g id="product-1c02367d-28b2-49bb-90e8-9b10feb327bb" class="IfcWall material-null projection" ifc:name="Wall" ifc:guid="0S0ZPzAB99kv3ecn3_ioUx">
+            <path d="M217.288,211.546 L205.958,211.546"/>
+            <path d="M217.288,210.546 L217.288,211.546"/>
+            <path d="M205.958,210.546 L217.288,210.546"/>
+            <path d="M205.958,211.546 L205.958,210.546"/>
+        </g>
+        <g id="product-5809d239-5784-471f-a0db-d9d5c7c8e5a5" class="IfcSlab material-null projection" ifc:name="Slab" ifc:guid="1O2T8vLuH77w3RsTN7oEMb">
+            <path d="M204.958,287.044 L210.628,287.044"/>
+            <path d="M217.428,287.044 L217.678,287.044"/>
+            <path d="M217.928,287.044 L219.078,287.044"/>
+            <path d="M220.078,287.044 L250.078,287.044"/>
+            <path d="M204.958,189.531 L204.958,287.044"/>
+            <path d="M230.57,189.531 L204.958,189.531"/>
+            <path d="M230.57,209.044 L230.57,189.531"/>
+            <path d="M230.57,189.531 L230.57,189.531"/>
+            <path d="M250.078,287.044 L250.078,209.044"/>
+        </g>
+        <g id="product-f4c520a0-bb17-45fb-b5c8-3363b118f50e" class="IfcDoor material-null projection" ifc:name="Door" ifc:guid="3qnI2WknT5_xN8CsEn6FKE">
+            <path d="M224.738,239.083 L217.938,239.083"/>
+            <path d="M224.738,238.733 L224.738,239.083"/>
+            <path d="M217.938,238.733 L224.738,238.733"/>
+            <path d="M217.938,239.083 L217.938,238.733"/>
+            <path d="M217.438,238.833 L217.438,239.333"/>
+            <path d="M217.688,238.833 L217.438,238.833"/>
+            <path d="M217.688,239.083 L217.688,238.833"/>
+            <path d="M217.938,239.083 L217.688,239.083"/>
+            <path d="M217.938,239.333 L217.938,239.083"/>
+            <path d="M217.438,239.333 L217.938,239.333"/>
+            <path d="M217.438,232.533 L217.438,232.033"/>
+            <path d="M217.688,232.533 L217.438,232.533"/>
+            <path d="M217.688,232.283 L217.688,232.533"/>
+            <path d="M217.938,232.283 L217.688,232.283"/>
+            <path d="M217.938,232.033 L217.938,232.283"/>
+            <path d="M217.438,232.033 L217.938,232.033"/>
+            <path d="M219.264,232.407 L217.938,232.283"/>
+            <path d="M220.54,232.774 L219.264,232.407"/>
+            <path d="M221.935,233.515 L220.54,232.774"/>
+            <path d="M223.108,234.544 L221.935,233.515"/>
+            <path d="M223.997,235.805 L223.108,234.544"/>
+            <path d="M224.55,237.227 L223.997,235.805"/>
+            <path d="M224.738,238.733 L224.55,237.227"/>
+        </g>
+        <g id="product-d6fd7e94-42f1-414c-8419-7f0516f2175a" class="IfcDoor material-null projection" ifc:name="Door" ifc:guid="3M$NwKGl51J8GPVmKMyXTQ">
+            <path d="M224.738,247.927 L217.938,247.927"/>
+            <path d="M224.738,247.577 L224.738,247.927"/>
+            <path d="M217.938,247.577 L224.738,247.577"/>
+            <path d="M217.938,247.927 L217.938,247.577"/>
+            <path d="M217.438,247.677 L217.438,248.177"/>
+            <path d="M217.688,247.677 L217.438,247.677"/>
+            <path d="M217.688,247.927 L217.688,247.677"/>
+            <path d="M217.938,247.927 L217.688,247.927"/>
+            <path d="M217.938,248.177 L217.938,247.927"/>
+            <path d="M217.438,241.377 L217.438,240.877"/>
+            <path d="M217.688,241.377 L217.438,241.377"/>
+            <path d="M217.688,241.127 L217.688,241.377"/>
+            <path d="M217.938,241.127 L217.688,241.127"/>
+            <path d="M217.938,240.877 L217.938,241.127"/>
+            <path d="M217.438,240.877 L217.938,240.877"/>
+            <path d="M219.264,241.251 L217.938,241.127"/>
+            <path d="M220.54,241.618 L219.264,241.251"/>
+            <path d="M221.935,242.359 L220.54,241.618"/>
+            <path d="M223.108,243.388 L221.935,242.359"/>
+            <path d="M223.997,244.649 L223.108,243.388"/>
+            <path d="M224.55,246.072 L223.997,244.649"/>
+            <path d="M224.738,247.577 L224.55,246.072"/>
+        </g>
+        <g id="product-76ef8e95-ba71-4d59-99ac-5d209dda4064" class="IfcDoor material-null projection" ifc:name="Door" ifc:guid="1sxuwLkd5DMPciNI2Tsa1a">
+            <path d="M210.628,286.744 L210.628,287.044"/>
+            <path d="M217.428,286.744 L210.628,286.744"/>
+            <path d="M217.428,287.044 L217.428,286.744"/>
+            <path d="M217.928,280.544 L217.928,280.044"/>
+            <path d="M217.678,280.544 L217.928,280.544"/>
+            <path d="M217.678,280.294 L217.678,280.544"/>
+            <path d="M217.428,280.294 L217.678,280.294"/>
+            <path d="M217.428,280.044 L217.428,280.294"/>
+            <path d="M217.928,286.844 L217.928,287.044"/>
+            <path d="M217.678,286.844 L217.928,286.844"/>
+            <path d="M217.678,287.044 L217.678,286.844"/>
+            <path d="M210.671,286.02 L210.628,286.744"/>
+            <path d="M210.8,285.304 L210.671,286.02"/>
+            <path d="M211.268,284.013 L210.8,285.304"/>
+            <path d="M212.012,282.844 L211.268,284.013"/>
+            <path d="M212.999,281.851 L212.012,282.844"/>
+            <path d="M214.184,281.076 L212.999,281.851"/>
+            <path d="M215.668,280.514 L214.184,281.076"/>
+            <path d="M217.428,280.294 L215.668,280.514"/>
+        </g>
+        <g id="product-603b632d-bc15-4435-8d62-659d7b8026d9" class="IfcDoor material-null projection" ifc:name="Door" ifc:guid="1WEsCjl1L4DOrYPPrxW2RP">
+            <path d="M208.05,262.594 L208.05,269.394"/>
+            <path d="M208.4,262.594 L208.05,262.594"/>
+            <path d="M208.4,269.394 L208.4,262.594"/>
+            <path d="M208.05,269.394 L208.4,269.394"/>
+            <path d="M214.6,269.894 L215.1,269.894"/>
+            <path d="M214.6,269.644 L214.6,269.894"/>
+            <path d="M214.85,269.644 L214.6,269.644"/>
+            <path d="M214.85,269.394 L214.85,269.644"/>
+            <path d="M215.1,269.394 L214.85,269.394"/>
+            <path d="M208.3,269.894 L207.8,269.894"/>
+            <path d="M208.3,269.644 L208.3,269.894"/>
+            <path d="M208.05,269.644 L208.3,269.644"/>
+            <path d="M208.05,269.394 L208.05,269.644"/>
+            <path d="M207.8,269.394 L208.05,269.394"/>
+            <path d="M209.125,262.637 L208.4,262.594"/>
+            <path d="M209.84,262.766 L209.125,262.637"/>
+            <path d="M211.131,263.234 L209.84,262.766"/>
+            <path d="M212.3,263.978 L211.131,263.234"/>
+            <path d="M213.294,264.964 L212.3,263.978"/>
+            <path d="M214.069,266.149 L213.294,264.964"/>
+            <path d="M214.631,267.634 L214.069,266.149"/>
+            <path d="M214.85,269.394 L214.631,267.634"/>
+        </g>
+        <g id="product-8d72b151-df48-4e6a-b435-bad487f16161" class="IfcDoor material-null projection" ifc:name="Door" ifc:guid="2DSh5HtqXEQhGrkjI7yM5X">
+            <path d="M224.588,212.384 L217.788,212.384"/>
+            <path d="M224.588,212.734 L224.588,212.384"/>
+            <path d="M217.788,212.734 L224.588,212.734"/>
+            <path d="M217.788,212.384 L217.788,212.734"/>
+            <path d="M217.288,218.934 L217.288,219.434"/>
+            <path d="M217.538,218.934 L217.288,218.934"/>
+            <path d="M217.538,219.184 L217.538,218.934"/>
+            <path d="M217.788,219.184 L217.538,219.184"/>
+            <path d="M217.788,219.434 L217.788,219.184"/>
+            <path d="M217.288,212.634 L217.288,212.134"/>
+            <path d="M217.538,212.634 L217.288,212.634"/>
+            <path d="M217.538,212.384 L217.538,212.634"/>
+            <path d="M217.788,212.384 L217.538,212.384"/>
+            <path d="M217.788,212.134 L217.788,212.384"/>
+            <path d="M224.545,213.459 L224.588,212.734"/>
+            <path d="M224.416,214.174 L224.545,213.459"/>
+            <path d="M223.948,215.465 L224.416,214.174"/>
+            <path d="M223.204,216.634 L223.948,215.465"/>
+            <path d="M222.218,217.628 L223.204,216.634"/>
+            <path d="M221.032,218.402 L222.218,217.628"/>
+            <path d="M219.548,218.964 L221.032,218.402"/>
+            <path d="M217.788,219.184 L219.548,218.964"/>
+        </g>
+        <g id="product-cb7cc1e9-e156-4183-a023-1eaec48be80a-body" class="IfcWall material-null cut" ifc:name="Wall" ifc:guid="3BVC7fuLP1Ww0Z7gx4Y_WA">
+            <path d="M204.958,288.044 L204.958,287.044 L250.078,287.044 L250.078,288.044 L204.958,288.044"/>
+        </g>
+        <g class="1zLgxn7nr4MgcNxdgnvXgE 0rMPTGE8T3sPP6Bo5pCGTt 3sLrz8Pcj2wvQu1of$UU1x cut 38lKCvg852fgUlhrT02mVw 0io6S$Rr16awHaYJEjwxZp 2CpshG5k95IB93Wky4Pf4u 0S0ZPzAB99kv3ecn3_ioUx 3SQYeat3jFyexiuVOUA9EP IfcWall 1JDjNuqafD4xYmSbGoAlFC 2CH5V_eI1C_x_5NOpH6La6 1VTZpyb1jD5RbBO1BNxcOT material-null 1wrr4dE9X9PRrBgjwPCPPA 3G66OElEn8$PAuI_lEuVtV"><path d="M205.959,189.531 L205.959,190.531 L229.57,190.531 L229.57,209.044 L225.899,209.044 L225.899,211.044 L250.078,211.044 L250.078,209.044 L230.57,209.044 L230.57,189.531 L229.57,189.531 Z"/></g><g class="1zLgxn7nr4MgcNxdgnvXgE 0rMPTGE8T3sPP6Bo5pCGTt 3sLrz8Pcj2wvQu1of$UU1x cut 38lKCvg852fgUlhrT02mVw 0io6S$Rr16awHaYJEjwxZp 2CpshG5k95IB93Wky4Pf4u 0S0ZPzAB99kv3ecn3_ioUx 3SQYeat3jFyexiuVOUA9EP IfcWall 1JDjNuqafD4xYmSbGoAlFC 2CH5V_eI1C_x_5NOpH6La6 1VTZpyb1jD5RbBO1BNxcOT material-null 1wrr4dE9X9PRrBgjwPCPPA 3G66OElEn8$PAuI_lEuVtV"><path d="M217.288,212.134 L218.288,212.134 L218.288,210.546 L217.288,210.546 L205.958,210.546 L205.958,211.546 L217.288,211.546 Z"/></g><g class="1zLgxn7nr4MgcNxdgnvXgE 0rMPTGE8T3sPP6Bo5pCGTt 3sLrz8Pcj2wvQu1of$UU1x cut 38lKCvg852fgUlhrT02mVw 0io6S$Rr16awHaYJEjwxZp 2CpshG5k95IB93Wky4Pf4u 0S0ZPzAB99kv3ecn3_ioUx 3SQYeat3jFyexiuVOUA9EP IfcWall 1JDjNuqafD4xYmSbGoAlFC 2CH5V_eI1C_x_5NOpH6La6 1VTZpyb1jD5RbBO1BNxcOT material-null 1wrr4dE9X9PRrBgjwPCPPA 3G66OElEn8$PAuI_lEuVtV"><path d="M205.958,230.636 L205.958,231.636 L218.288,231.636 L218.288,230.636 L218.288,219.434 L217.288,219.434 L217.288,230.636 Z"/></g><g class="1zLgxn7nr4MgcNxdgnvXgE 0rMPTGE8T3sPP6Bo5pCGTt 3sLrz8Pcj2wvQu1of$UU1x cut 38lKCvg852fgUlhrT02mVw 0io6S$Rr16awHaYJEjwxZp 2CpshG5k95IB93Wky4Pf4u 0S0ZPzAB99kv3ecn3_ioUx 3SQYeat3jFyexiuVOUA9EP IfcWall 1JDjNuqafD4xYmSbGoAlFC 2CH5V_eI1C_x_5NOpH6La6 1VTZpyb1jD5RbBO1BNxcOT material-null 1wrr4dE9X9PRrBgjwPCPPA 3G66OElEn8$PAuI_lEuVtV"><path d="M205.958,250.869 L218.288,250.869 L218.288,249.869 L218.288,248.177 L217.288,248.177 L217.288,249.869 L205.958,249.869 Z"/></g><g class="1zLgxn7nr4MgcNxdgnvXgE 0rMPTGE8T3sPP6Bo5pCGTt 3sLrz8Pcj2wvQu1of$UU1x cut 38lKCvg852fgUlhrT02mVw 0io6S$Rr16awHaYJEjwxZp 2CpshG5k95IB93Wky4Pf4u 0S0ZPzAB99kv3ecn3_ioUx 3SQYeat3jFyexiuVOUA9EP IfcWall 1JDjNuqafD4xYmSbGoAlFC 2CH5V_eI1C_x_5NOpH6La6 1VTZpyb1jD5RbBO1BNxcOT material-null 1wrr4dE9X9PRrBgjwPCPPA 3G66OElEn8$PAuI_lEuVtV"><path d="M207.8,270.044 L207.8,269.044 L205.958,269.044 L205.958,270.044 Z"/></g><g class="1zLgxn7nr4MgcNxdgnvXgE 0rMPTGE8T3sPP6Bo5pCGTt 3sLrz8Pcj2wvQu1of$UU1x cut 38lKCvg852fgUlhrT02mVw 0io6S$Rr16awHaYJEjwxZp 2CpshG5k95IB93Wky4Pf4u 0S0ZPzAB99kv3ecn3_ioUx 3SQYeat3jFyexiuVOUA9EP IfcWall 1JDjNuqafD4xYmSbGoAlFC 2CH5V_eI1C_x_5NOpH6La6 1VTZpyb1jD5RbBO1BNxcOT material-null 1wrr4dE9X9PRrBgjwPCPPA 3G66OElEn8$PAuI_lEuVtV"><path d="M215.1,269.044 L215.1,270.044 L217.078,270.044 L217.078,279.044 L217.078,280.044 L219.078,280.044 L219.078,287.044 L220.078,287.044 L220.078,279.044 L219.078,279.044 L218.078,279.044 L218.078,270.044 L218.078,269.044 Z"/></g><g class="1zLgxn7nr4MgcNxdgnvXgE 0rMPTGE8T3sPP6Bo5pCGTt 3sLrz8Pcj2wvQu1of$UU1x cut 38lKCvg852fgUlhrT02mVw 0io6S$Rr16awHaYJEjwxZp 2CpshG5k95IB93Wky4Pf4u 0S0ZPzAB99kv3ecn3_ioUx 3SQYeat3jFyexiuVOUA9EP IfcWall 1JDjNuqafD4xYmSbGoAlFC 2CH5V_eI1C_x_5NOpH6La6 1VTZpyb1jD5RbBO1BNxcOT material-null 1wrr4dE9X9PRrBgjwPCPPA 3G66OElEn8$PAuI_lEuVtV"><path d="M248.947,251.187 L248.947,248.187 L246.947,248.187 L246.947,251.187 Z"/></g></g>
+</svg>
