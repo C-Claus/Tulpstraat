@@ -30,12 +30,22 @@ Verder is het goed om de afstand tussen de ventilatieventielen te noteren. Dit g
 
 Voor de ventilatieberekening heb je de afstand tussen de afvoer- en toevoerventielen en de luchtverplaatsing nodig. De afstand tussen de ventielen wordt uitgedrukt in meters en de luchtverplaatsing in m3/h. Voor deze waarden gelden de volgende algemene regels.
 
-| Soort ventiel |  Maximale luchtverplaatsing per ventiel m3/h
+| Soort ventiel |  Maximale luchtverplaatsing per ventiel m3/h |
 | ---- | ---- |
 | Toevoerventiel|	Maximaal 50m3/h |
 | Afvoerventiel	| Maximaal 75m3/h |
 
 ## De ventilatie in balans brengen
+
+| Ruimte | Inhoud | Oppervlakte | Hoogte | 
+| ----- | ----- | ----- | ---- |
+| Woonkamer | 81,79 | 26,27 | 3,11 |
+| Keuken | 11,76 | 4,72 | 2,48 |
+| Toilet | 6,29 | 2,16 | 2,91 |
+| Badkamer | 7,39 | 4,28 | 2,23 |
+| Slaapkamer | 20,55 | 2,23 | 9,71 |
+| Zolderkamer (wijkt af want geen plafond) | 28,25 | 9,3 | 4,01 | 
+| Overloop |  17,48 | 9,41 | 2,00 |
 
 ## Berekening buisdiameters en ventielen
 
@@ -60,3 +70,7 @@ https://orcon.nl/product/hrc-optiair/
 - https://gathering.tweakers.net/forum/list_messages/2046242
 
 - https://docs.google.com/spreadsheets/d/1d_CQnVs_DSdCFzLXcmwVBgOEyXqN3CDVp_mzKSJ_dFU/template/preview
+
+- https://www.ventilatiesysteemabcd.nl/ventilatiekanalen#:~:text=Systemen%20met%20grote%20diameters%20luchtafvoerslang,toegepast%20in%20combinatie%20met%20balansventilatie.
+
+
