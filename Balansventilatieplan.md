@@ -65,7 +65,11 @@ Waar mogelijk kan een combinatie van beiden het geluid bijna geheel dempen
 
 - Vent-Axia Uniflexplus luchtverdeelsysteem
 
-https://www.ventilatieland.nl/nl_NL/vent-axia-uniflexplus-diameter-90-mm/2972/
+https://www.ventilatieland.nl/nl_NL/vent-axia-uniflexplus-diameter-90-mm/2972/ <- heel prijzig en niet in 150 mm leverbaar
+
+https://www.filterfabriek.nl/ventilatiekanalen/kunststof-ventilatiekanalen/kunststof-kanaal-150mm/ <- standaard maat en veel koppelstukken voor
+
+Spirobuis valt af
 
 
 # Principe ontwerp
