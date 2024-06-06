@@ -14,6 +14,25 @@ Het is belangrijk om ventilatiekanalen zo aan te leggen dat er zo weinig mogelij
 | Keuken |	> 21 dm3/s (opstelplaats max. 15 kW) |
 | Meterruimte |	> 2 dm3/s per m3 netto-inhoud van de meterruimte, met een minimum van 2 dm3/s |
 
+In een ventilatieberekening moet je ook rekening houden met de luchtsnelheden. Deze worden uitgedrukt in meter per seconde (m/s). Over het algemeen moet je rekening houden met de volgende waarden voor het berekenen van het toevoer- en afvoerdebiet:
+
+| Kanaal |	Waarde |
+| ---- | ---- |
+| Hoofdkanaal (distributiekanaal)|	5 m/s |
+| Aftakkingskanaal |	3 m/s |
+
+Bij een WTW unit is het belangrijk dat de aanzuig van buitenaf gelijk aan of kleiner is dan 3 m/s. Dit trekt namelijk ook regenwater aan. Voor de uitblaas van de WTW unit wordt ongeveer 8 m/s aangehouden.
+
+
+Verder is het goed om de afstand tussen de ventilatieventielen te noteren. Dit gaat om de afvoer- en toevoerventielen. Een afvoerventiel draagt zorg voor de afvoer van lucht naar het ventilatiesysteem. Deze ventielen bevinden zich in natte ruimtes, zoals de badkamer, keuken, berging en het toilet. In sommige gevallen kan het zo zijn dat er een afvoerventiel in een leefruimte is geplaatst, zoals de woonkamer. Daarnaast wordt een toevoerventiel gebruikt voor de toevoer van lucht vanuit een ventilatiesysteem. Deze bevinden zich vaak in leefruimtes, zoals de woonkamer, slaapkamer, eetkamer en het kantoor.
+
+Voor de ventilatieberekening heb je de afstand tussen de afvoer- en toevoerventielen en de luchtverplaatsing nodig. De afstand tussen de ventielen wordt uitgedrukt in meters en de luchtverplaatsing in m3/h. Voor deze waarden gelden de volgende algemene regels.
+
+| Soort ventiel |  Maximale luchtverplaatsing per ventiel m3/h
+| ---- | ---- |
+| Toevoerventiel|	Maximaal 50m3/h |
+| Afvoerventiel	| Maximaal 75m3/h |
+
 # Principe ontwerp
 
 ![alt text](image.png)
