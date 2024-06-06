@@ -49,9 +49,28 @@ Voor de ventilatieberekening heb je de afstand tussen de afvoer- en toevoerventi
 
 ## Berekening buisdiameters en ventielen
 
+### Welke buis?
+
+Overspraak, brandwerendheid, thermische eigenschappen en verwerkingen zijn eigenschappen die in overweging zijn genomen voor de keuze van een buis. Voor mijn toepassing (renovatie bestaande woning) is overspraak niet relevant aangezien ik enkel door mijn verdieping (houten balklaag) ga met de buis.
+De buizen hoeven ook niet ingestort te worden.
+
+De aanvoer van lucht (buiten–>WTW) bestaat is een starre buis met isolatie en daar zal weinig geluid zich kunnen ontwikkelen. Echter de buis die naar de woning toe gaat (WTW–>woning in), die heeft kans op geluid van de ventilator. Vandaar dat we in dat pad gebruik hebben gemaakt van een flexibele slang die zowel geluid als thermisch isoleert.
+
+Inzichten:
+
+Een starre buis dempt afstraling van de kast, de trillingen die het apparaat veroorzaakt
+Een flexibele buis dempt het geluid van lucht door de kanalen
+Waar mogelijk kan een combinatie van beiden het geluid bijna geheel dempen
+
+
+- Vent-Axia Uniflexplus luchtverdeelsysteem
+
+https://www.ventilatieland.nl/nl_NL/vent-axia-uniflexplus-diameter-90-mm/2972/
+
+
 # Principe ontwerp
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 # Welke WTW?
 
@@ -71,6 +90,10 @@ https://orcon.nl/product/hrc-optiair/
 
 - https://docs.google.com/spreadsheets/d/1d_CQnVs_DSdCFzLXcmwVBgOEyXqN3CDVp_mzKSJ_dFU/template/preview
 
-- https://www.ventilatiesysteemabcd.nl/ventilatiekanalen#:~:text=Systemen%20met%20grote%20diameters%20luchtafvoerslang,toegepast%20in%20combinatie%20met%20balansventilatie.
+- https://www.ventilatiesysteemabcd.nl/ventilatiekanalen#:~:text=Systemen%20met%20grote%20diameters%20luchtafvoerslang,toegepast%20in%20combinatie%20met%20balansventilatie
 
+- https://www.ventilatieland.nl/nl_NL/blog/item/ventilatiebuis-keuzehulp-85/
 
+- https://www.ubbink.com/nl/kennisbank/onze-merken/ventus/
+
+- https://www.milieucentraal.nl/energie-besparen/ventilatie/balansventilatie/
