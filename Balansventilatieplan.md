@@ -5,6 +5,8 @@ Het is belangrijk om ventilatiekanalen zo aan te leggen dat er zo weinig mogelij
 
 # De balansventilatieberekening
 
+## Eisen
+
 | Ruimte | 	Eis |
 | ---- | ---- |
 | Verblijfsgebied	| > 0,9 dm3/s per m2  vloeroppervlakte  met een minimum van 7 dm3/s |
@@ -33,6 +35,10 @@ Voor de ventilatieberekening heb je de afstand tussen de afvoer- en toevoerventi
 | Toevoerventiel|	Maximaal 50m3/h |
 | Afvoerventiel	| Maximaal 75m3/h |
 
+## De ventilatie in balans brengen
+
+## Berekening buisdiameters en ventielen
+
 # Principe ontwerp
 
 ![alt text](image.png)
@@ -52,3 +58,5 @@ https://orcon.nl/product/hrc-optiair/
 - https://alphaventilatie.nl/ventilatie/ventilatieberekening-maken/
 
 - https://gathering.tweakers.net/forum/list_messages/2046242
+
+- https://docs.google.com/spreadsheets/d/1d_CQnVs_DSdCFzLXcmwVBgOEyXqN3CDVp_mzKSJ_dFU/template/preview
