@@ -69,6 +69,8 @@ De eerste stap om een ventilatieberekening te maken is het vermenigvuldigen van 
 
 De tweede stap in het maken van een ventilatieberekening is het berekenen van de aanvoer van ventilatielucht door roosters en kozijnen in de verblijfsruimtes. Om dit te berekenen, verdeel je de berekende ventilatiecapaciteit door het aantal verblijfsruimtes in het verblijfsgebied.
 
+AANVOER
+
 | Ruimte | Inhoud | Oppervlakte | Hoogte | Eis |  Ventilatiecapaciteit (Eis x Oppervlakte) | Verblijfsgebied | 
 | ------ | ------ | ----------- | ------ | --- | ---------------------------------------- | ------ |
 | Woonkamer | 81,79 | 26,27 | 3,11 | > 0,9 dm3/s per m2 | 23,64 dm3/s | Verblijfsgebied |
@@ -76,7 +78,12 @@ De tweede stap in het maken van een ventilatieberekening is het berekenen van de
 | Zolderkamer | 28,25 | 9,3 | 4,01 | 0,9 dm3/s per m2  | 8,4 dm3/s | Verblijfsgebied |
 | Totaal | ----- | ---- | ---- | ---- | 40,78 | Verblijfsgebied totaal |
 
+Indien je drie verblijfsruimtes hebt, verdeel je de berekende minimale ventilatiecapaciteit van het verblijfsgebied (40,78 dm3/s) door 3.
 
+In dit geval is de aanvoer *13,59 dm3/s*
+
+
+##### Stap 3: bereken de afvoer
 
 ### Welke buis?
 
@@ -130,3 +137,5 @@ https://orcon.nl/product/hrc-optiair/
 - https://www.ubbink.com/nl/kennisbank/onze-merken/ventus/
 
 - https://www.milieucentraal.nl/energie-besparen/ventilatie/balansventilatie/
+
+- https://www.zehnder.nl/nl/service-kennis/zehnder-academy/kennisartikelen/ventilatie-installeren-inregelen-de-6-meest-gemaakte-fouten
