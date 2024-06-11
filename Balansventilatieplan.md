@@ -72,8 +72,9 @@ De tweede stap in het maken van een ventilatieberekening is het berekenen van de
 | Ruimte | Inhoud | Oppervlakte | Hoogte | Eis |  Ventilatiecapaciteit (Eis x Oppervlakte) | Verblijfsgebied | 
 | ------ | ------ | ----------- | ------ | --- | ---------------------------------------- | ------ |
 | Woonkamer | 81,79 | 26,27 | 3,11 | > 0,9 dm3/s per m2 | 23,64 dm3/s | Verblijfsgebied |
-| Slaapkamer | 20,55 | 9,71 | 2,23 | 8,74 dm3/s  | Verblijfsgebied |
-| Zolderkamer | 28,25 | 9,3 | 4,01 | 25 dm3/s | Verblijfsgebied |
+| Slaapkamer | 20,55 | 9,71 | 2,23 | 0,9 dm3/s per m2  | 8,74 dm3/s  | Verblijfsgebied |
+| Zolderkamer | 28,25 | 9,3 | 4,01 | 0,9 dm3/s per m2  | 8,4 dm3/s | Verblijfsgebied |
+| Totaal | ----- | ---- | ---- | ---- | 40,78 | Verblijfsgebied totaal |
 
 
 
