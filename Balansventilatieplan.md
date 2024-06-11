@@ -49,6 +49,17 @@ Voor de ventilatieberekening heb je de afstand tussen de afvoer- en toevoerventi
 
 ## Berekening buisdiameters en ventielen
 
+### Stappen in de berekening
+
+#### 1. Minimale ventilatiecapaciteit
+
+De eerste stap om een ventilatieberekening te maken is het vermenigvuldigen van de oppervlakte van de ruimte of het gebied met de minimale ventilatiecapaciteit
+
+| Ruimte | Inhoud | Oppervlakte | Hoogte | Eis |  Ventilatiecapaciteit (Eis x Oppervlakte)
+| ----- | ----- | ----- | ---- | ---- | ---- | ---- |
+| Woonkamer | 81,79 | 26,27 | 3,11 | > 0,9 dm3/s per m2 | 23,64 dm3/s |
+
+
 ### Welke buis?
 
 Overspraak, brandwerendheid, thermische eigenschappen en verwerkingen zijn eigenschappen die in overweging zijn genomen voor de keuze van een buis. Voor mijn toepassing (renovatie bestaande woning) is overspraak niet relevant aangezien ik enkel door mijn verdieping (houten balklaag) ga met de buis.
