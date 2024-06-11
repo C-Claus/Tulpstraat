@@ -32,7 +32,7 @@ Voor de ventilatieberekening heb je de afstand tussen de afvoer- en toevoerventi
 
 | Soort ventiel |  Maximale luchtverplaatsing per ventiel m3/h |
 | ---- | ---- |
-| Toevoerventiel|	Maximaal 50m3/h |
+| Toevoerventiel | Maximaal 50m3/h |
 | Afvoerventiel	| Maximaal 75m3/h |
 
 ## De ventilatie in balans brengen
@@ -43,21 +43,38 @@ Voor de ventilatieberekening heb je de afstand tussen de afvoer- en toevoerventi
 | Keuken | 11,76 | 4,72 | 2,48 |
 | Toilet | 6,29 | 2,16 | 2,91 |
 | Badkamer | 7,39 | 4,28 | 2,23 |
-| Slaapkamer | 20,55 | 2,23 | 9,71 |
-| Zolderkamer (wijkt af want geen plafond) | 28,25 | 9,3 | 4,01 | 
+| Slaapkamer | 20,55 |  9,71 | 2,23 |
+| Zolderkamer (wijkt af want geen plafond) | 28,25 | 9,3 | 4,01 |
 | Overloop |  17,48 | 9,41 | 2,00 |
 
 ## Berekening buisdiameters en ventielen
 
 ### Stappen in de berekening
 
-#### 1. Minimale ventilatiecapaciteit
+#### Stap 1. Minimale ventilatiecapaciteit
 
 De eerste stap om een ventilatieberekening te maken is het vermenigvuldigen van de oppervlakte van de ruimte of het gebied met de minimale ventilatiecapaciteit
 
 | Ruimte | Inhoud | Oppervlakte | Hoogte | Eis |  Ventilatiecapaciteit (Eis x Oppervlakte)
 | ------ | ------ | ----------- | ------ | --- | ---------------------------------------- |
 | Woonkamer | 81,79 | 26,27 | 3,11 | > 0,9 dm3/s per m2 | 23,64 dm3/s |
+| Keuken | 11,76 | 4,72 | 2,48 | > 21 dm3/s | 99,12 dm3/s |
+| Toilet | 6,29 | 2,16 | 2,91 | > 7 dm3/s  | 15,12 dm3/s |
+| Badkamer | 7,39 | 4,28 | 2,23 | > 14 dm3/s per m2 | 59,92 dm3/s  |
+| Slaapkamer | 20,55 | 9,71 | 2,23 | 0,9 dm3/s per m2  | 8,74 dm3/s  |
+| Zolderkamer | 28,25 | 9,3 | 4,01 | 0,9 dm3/s per m2  | 8,4 dm3/s |
+
+
+##### Stap 2: bereken de aanvoer
+
+De tweede stap in het maken van een ventilatieberekening is het berekenen van de aanvoer van ventilatielucht door roosters en kozijnen in de verblijfsruimtes. Om dit te berekenen, verdeel je de berekende ventilatiecapaciteit door het aantal verblijfsruimtes in het verblijfsgebied.
+
+| Ruimte | Inhoud | Oppervlakte | Hoogte | Eis |  Ventilatiecapaciteit (Eis x Oppervlakte) | Verblijfsgebied | 
+| ------ | ------ | ----------- | ------ | --- | ---------------------------------------- | ------ |
+| Woonkamer | 81,79 | 26,27 | 3,11 | > 0,9 dm3/s per m2 | 23,64 dm3/s | Verblijfsgebied |
+| Slaapkamer | 20,55 | 9,71 | 2,23 | 8,74 dm3/s  | Verblijfsgebied |
+| Zolderkamer | 28,25 | 9,3 | 4,01 | 25 dm3/s | Verblijfsgebied |
+
 
 
 ### Welke buis?
