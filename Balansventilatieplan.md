@@ -56,7 +56,7 @@ Voor de ventilatieberekening heb je de afstand tussen de afvoer- en toevoerventi
 De eerste stap om een ventilatieberekening te maken is het vermenigvuldigen van de oppervlakte van de ruimte of het gebied met de minimale ventilatiecapaciteit
 
 | Ruimte | Inhoud | Oppervlakte | Hoogte | Eis |  Ventilatiecapaciteit (Eis x Oppervlakte)
-| ----- | ----- | ----- | ---- | ---- | ---- | ---- |
+| ------ | ------ | ----------- | ------ | --- | ---------------------------------------- |
 | Woonkamer | 81,79 | 26,27 | 3,11 | > 0,9 dm3/s per m2 | 23,64 dm3/s |
 
 
